@@ -76,6 +76,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes. You may also see any lint errors in the console.
 
+Proxying API requests to the django app http://localhost:8000 has been set up in the `package.json` to avoid CORS issues as per [https://create-react-app.dev/docs/proxying-api-requests-in-development/](https://create-react-app.dev/docs/proxying-api-requests-in-development/)
+
 ## Backend
 
 In the backend directory, using a python 3.8+ environment run the following commands to set up the project.
