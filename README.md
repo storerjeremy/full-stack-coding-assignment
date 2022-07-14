@@ -32,6 +32,8 @@ Some relevant frontend packages we use in our stack are below. (You don't have t
 
 The main goal is for the user to be able to create, view, edit and delete security movements.
 
+**A security movement is just a way of describing the buying or selling of shares in a company, for example, if John sells 200 shares in Company XYZ to Mary, they are participating in a "security movement" for 200 Company XYZ shares**
+
 ### Acceptance criteria
 
 1. As the user I should be able to view all the security movements in a table list view
