@@ -32,7 +32,14 @@ Some relevant frontend packages we use in our stack are below. (You don't have t
 
 The main goal is for the user to be able to create, view, edit and delete security movements.
 
-**A security movement is just a way of describing the buying or selling of shares in a company, for example, if John sells 200 shares in Company XYZ to Mary, they are participating in a "security movement" for 200 Company XYZ shares**
+A security movement is just a way of describing the buying or selling of shares in a company, for example, if John sells 200 shares in Company XYZ to Mary, they are participating in a "security movement" for 200 Company XYZ shares.
+
+There are 3 different types of security movements:
+- Allotment (eg,  Company XYZ sells John some shares)
+- Redemption (John sells his shares back to Company XYZ)
+- Transfer (eg, John sells his Company XYZ shares to Mary) 
+
+A security movement always has a quantity (aka numer of units) and a price.
 
 ### Acceptance criteria
 
