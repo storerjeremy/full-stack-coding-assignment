@@ -6,10 +6,11 @@ Your goal is to set up a small full stack application which enables the user to 
 
 # Instructions
 1. Clone this repository
-2. Complete the project as described below within your local repository
+2. Work on the project as described below within your local repository
    1. You should aim to spend 1 hour 
-   2. We don't expect you to complete all the acceptance criteria in 1 hour, just do what you can to showcase your understanding of both Django and React
+   2. We don't expect you to complete all the acceptance criteria and have a full working solution in 1 hour, just do what you can to showcase your understanding of both Django and React, this could be just outlining an approach or focussing on a single acceptance criteria. It's up to you   
    3. Don't worry about implementing any user authentication
+   4. Don't worry about styling
 3. Commit your code.
 4. Either share your private repository or git bundle `git bundle create your_name.bundle --all` with your contact.
 
